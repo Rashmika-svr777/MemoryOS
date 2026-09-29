@@ -1,0 +1,301 @@
+id,root_cause,severity,customer_id,engineer_id
+1,DNS misconfiguration,1,23,13
+2,database connection pool exhaustion,3,87,31
+3,memory leak in worker,1,83,9
+4,memory leak in worker,2,81,30
+5,DNS misconfiguration,3,60,27
+6,expired TLS certificate,3,73,47
+7,database connection pool exhaustion,1,27,37
+8,database connection pool exhaustion,3,9,10
+9,database connection pool exhaustion,1,44,25
+10,DNS misconfiguration,2,74,39
+11,memory leak in worker,2,77,8
+12,database connection pool exhaustion,3,91,3
+13,database connection pool exhaustion,4,12,32
+14,bad config rollout,3,58,20
+15,bad config rollout,3,23,8
+16,database connection pool exhaustion,1,100,13
+17,expired TLS certificate,4,65,2
+18,memory leak in worker,2,25,22
+19,memory leak in worker,3,100,21
+20,bad config rollout,1,67,44
+21,bad config rollout,2,93,3
+22,memory leak in worker,4,92,34
+23,expired TLS certificate,1,40,3
+24,DNS misconfiguration,1,43,30
+25,expired TLS certificate,1,67,50
+26,database connection pool exhaustion,1,74,49
+27,database connection pool exhaustion,2,42,13
+28,bad config rollout,3,36,35
+29,database connection pool exhaustion,4,86,8
+30,database connection pool exhaustion,2,21,18
+31,expired TLS certificate,1,80,36
+32,DNS misconfiguration,1,27,35
+33,database connection pool exhaustion,3,35,10
+34,database connection pool exhaustion,2,22,5
+35,database connection pool exhaustion,3,70,29
+36,expired TLS certificate,2,4,31
+37,expired TLS certificate,1,50,4
+38,expired TLS certificate,4,51,12
+39,DNS misconfiguration,4,79,23
+40,database connection pool exhaustion,3,26,46
+41,DNS misconfiguration,1,97,49
+42,memory leak in worker,2,12,45
+43,memory leak in worker,1,59,20
+44,memory leak in worker,4,30,15
+45,bad config rollout,3,47,26
+46,bad config rollout,3,42,30
+47,memory leak in worker,1,9,31
+48,expired TLS certificate,3,62,30
+49,bad config rollout,3,99,23
+50,DNS misconfiguration,2,66,7
+51,memory leak in worker,1,42,36
+52,expired TLS certificate,3,69,30
+53,memory leak in worker,4,31,40
+54,bad config rollout,2,62,25
+55,expired TLS certificate,3,27,45
+56,DNS misconfiguration,4,56,37
+57,database connection pool exhaustion,2,23,43
+58,expired TLS certificate,4,15,38
+59,DNS misconfiguration,4,42,36
+60,expired TLS certificate,4,23,20
+61,memory leak in worker,1,77,7
+62,DNS misconfiguration,4,42,32
+63,expired TLS certificate,1,28,9
+64,DNS misconfiguration,1,97,10
+65,bad config rollout,4,69,19
+66,memory leak in worker,4,26,14
+67,database connection pool exhaustion,3,73,44
+68,database connection pool exhaustion,4,92,23
+69,expired TLS certificate,1,79,33
+70,memory leak in worker,2,38,4
+71,database connection pool exhaustion,1,1,46
+72,DNS misconfiguration,3,15,19
+73,expired TLS certificate,2,56,45
+74,DNS misconfiguration,4,81,21
+75,memory leak in worker,4,49,28
+76,DNS misconfiguration,2,85,12
+77,memory leak in worker,2,25,36
+78,memory leak in worker,3,54,10
+79,database connection pool exhaustion,2,18,1
+80,expired TLS certificate,1,19,47
+81,memory leak in worker,4,18,6
+82,bad config rollout,4,59,45
+83,DNS misconfiguration,4,80,12
+84,memory leak in worker,4,71,29
+85,memory leak in worker,3,29,12
+86,memory leak in worker,1,74,32
+87,bad config rollout,3,53,35
+88,DNS misconfiguration,3,5,3
+89,DNS misconfiguration,4,91,24
+90,expired TLS certificate,4,89,6
+91,bad config rollout,3,60,34
+92,expired TLS certificate,1,32,31
+93,expired TLS certificate,3,79,4
+94,database connection pool exhaustion,1,61,30
+95,DNS misconfiguration,4,74,47
+96,database connection pool exhaustion,4,46,19
+97,database connection pool exhaustion,2,5,45
+98,DNS misconfiguration,3,94,37
+99,database connection pool exhaustion,1,81,31
+100,DNS misconfiguration,2,74,4
+101,database connection pool exhaustion,1,37,32
+102,expired TLS certificate,2,65,5
+103,database connection pool exhaustion,3,17,40
+104,database connection pool exhaustion,3,33,1
+105,expired TLS certificate,2,76,48
+106,bad config rollout,4,48,12
+107,database connection pool exhaustion,2,63,12
+108,DNS misconfiguration,1,44,6
+109,bad config rollout,2,64,49
+110,memory leak in worker,4,31,43
+111,memory leak in worker,2,27,37
+112,database connection pool exhaustion,1,83,17
+113,expired TLS certificate,1,22,30
+114,memory leak in worker,4,39,31
+115,DNS misconfiguration,2,49,44
+116,memory leak in worker,4,34,10
+117,DNS misconfiguration,4,2,19
+118,memory leak in worker,4,87,21
+119,DNS misconfiguration,1,13,35
+120,database connection pool exhaustion,4,79,42
+121,database connection pool exhaustion,3,35,18
+122,expired TLS certificate,3,84,38
+123,memory leak in worker,4,99,44
+124,bad config rollout,2,67,22
+125,bad config rollout,3,71,1
+126,expired TLS certificate,1,2,27
+127,expired TLS certificate,1,88,29
+128,database connection pool exhaustion,2,93,19
+129,database connection pool exhaustion,2,5,2
+130,DNS misconfiguration,1,8,39
+131,bad config rollout,1,91,8
+132,expired TLS certificate,2,49,43
+133,DNS misconfiguration,2,15,45
+134,bad config rollout,3,38,30
+135,expired TLS certificate,4,36,50
+136,memory leak in worker,3,33,11
+137,expired TLS certificate,3,100,4
+138,memory leak in worker,4,43,4
+139,database connection pool exhaustion,3,23,29
+140,expired TLS certificate,4,26,40
+141,memory leak in worker,2,83,32
+142,expired TLS certificate,2,70,50
+143,memory leak in worker,2,79,42
+144,expired TLS certificate,4,92,17
+145,expired TLS certificate,1,10,5
+146,DNS misconfiguration,3,100,29
+147,expired TLS certificate,4,20,42
+148,expired TLS certificate,1,86,25
+149,database connection pool exhaustion,2,90,22
+150,memory leak in worker,1,66,46
+151,memory leak in worker,4,56,26
+152,expired TLS certificate,2,1,25
+153,memory leak in worker,1,73,35
+154,database connection pool exhaustion,3,88,20
+155,memory leak in worker,1,81,42
+156,expired TLS certificate,3,69,22
+157,expired TLS certificate,4,98,50
+158,database connection pool exhaustion,2,23,36
+159,expired TLS certificate,4,85,13
+160,database connection pool exhaustion,4,14,41
+161,database connection pool exhaustion,4,11,41
+162,memory leak in worker,2,18,3
+163,bad config rollout,1,93,38
+164,bad config rollout,4,50,5
+165,DNS misconfiguration,3,64,35
+166,memory leak in worker,1,5,22
+167,expired TLS certificate,3,93,3
+168,memory leak in worker,1,28,42
+169,DNS misconfiguration,4,87,35
+170,bad config rollout,2,10,3
+171,bad config rollout,4,84,2
+172,memory leak in worker,1,32,45
+173,bad config rollout,1,23,41
+174,expired TLS certificate,3,13,30
+175,DNS misconfiguration,2,76,5
+176,expired TLS certificate,1,64,39
+177,DNS misconfiguration,2,9,13
+178,memory leak in worker,3,95,44
+179,memory leak in worker,3,16,44
+180,DNS misconfiguration,2,42,14
+181,expired TLS certificate,2,43,5
+182,expired TLS certificate,3,19,49
+183,memory leak in worker,2,90,24
+184,DNS misconfiguration,2,57,16
+185,DNS misconfiguration,1,18,7
+186,DNS misconfiguration,4,100,11
+187,expired TLS certificate,4,11,1
+188,expired TLS certificate,2,12,46
+189,DNS misconfiguration,3,54,45
+190,memory leak in worker,2,27,10
+191,database connection pool exhaustion,4,53,16
+192,bad config rollout,1,77,12
+193,memory leak in worker,1,81,20
+194,database connection pool exhaustion,4,1,36
+195,bad config rollout,2,16,34
+196,expired TLS certificate,3,98,35
+197,DNS misconfiguration,2,60,50
+198,bad config rollout,3,7,13
+199,expired TLS certificate,2,88,31
+200,memory leak in worker,2,21,43
+201,expired TLS certificate,1,83,24
+202,database connection pool exhaustion,2,56,17
+203,database connection pool exhaustion,4,6,7
+204,expired TLS certificate,2,21,2
+205,memory leak in worker,1,10,16
+206,memory leak in worker,3,54,13
+207,database connection pool exhaustion,2,100,8
+208,database connection pool exhaustion,2,13,16
+209,memory leak in worker,2,49,15
+210,expired TLS certificate,4,75,32
+211,expired TLS certificate,4,19,14
+212,DNS misconfiguration,4,23,25
+213,database connection pool exhaustion,2,59,47
+214,bad config rollout,3,35,13
+215,database connection pool exhaustion,2,5,45
+216,DNS misconfiguration,1,36,9
+217,expired TLS certificate,4,59,27
+218,bad config rollout,3,29,19
+219,DNS misconfiguration,2,82,40
+220,bad config rollout,2,12,27
+221,DNS misconfiguration,4,28,38
+222,memory leak in worker,4,36,1
+223,memory leak in worker,2,32,21
+224,memory leak in worker,2,76,10
+225,DNS misconfiguration,1,54,3
+226,expired TLS certificate,4,94,50
+227,DNS misconfiguration,1,55,34
+228,memory leak in worker,4,90,7
+229,memory leak in worker,4,31,6
+230,DNS misconfiguration,1,89,47
+231,memory leak in worker,2,17,23
+232,database connection pool exhaustion,2,83,6
+233,expired TLS certificate,4,86,20
+234,bad config rollout,4,74,48
+235,DNS misconfiguration,1,59,30
+236,bad config rollout,4,24,24
+237,memory leak in worker,1,81,5
+238,memory leak in worker,3,68,3
+239,database connection pool exhaustion,4,97,18
+240,DNS misconfiguration,2,88,6
+241,DNS misconfiguration,3,95,4
+242,DNS misconfiguration,3,7,8
+243,memory leak in worker,3,60,40
+244,expired TLS certificate,3,47,12
+245,DNS misconfiguration,1,72,46
+246,bad config rollout,2,43,16
+247,DNS misconfiguration,1,84,31
+248,DNS misconfiguration,2,97,48
+249,bad config rollout,3,46,18
+250,DNS misconfiguration,4,36,4
+251,expired TLS certificate,3,45,29
+252,memory leak in worker,1,61,46
+253,DNS misconfiguration,3,58,40
+254,database connection pool exhaustion,1,25,30
+255,expired TLS certificate,1,51,12
+256,database connection pool exhaustion,1,14,11
+257,database connection pool exhaustion,1,90,10
+258,memory leak in worker,2,27,34
+259,expired TLS certificate,3,54,44
+260,DNS misconfiguration,2,61,23
+261,memory leak in worker,4,95,42
+262,expired TLS certificate,3,25,5
+263,expired TLS certificate,2,67,42
+264,database connection pool exhaustion,4,75,22
+265,database connection pool exhaustion,4,76,43
+266,DNS misconfiguration,4,59,20
+267,DNS misconfiguration,2,40,11
+268,database connection pool exhaustion,2,62,24
+269,database connection pool exhaustion,1,19,23
+270,database connection pool exhaustion,4,22,40
+271,bad config rollout,3,24,12
+272,bad config rollout,2,31,8
+273,expired TLS certificate,3,74,9
+274,memory leak in worker,3,48,12
+275,bad config rollout,1,86,21
+276,database connection pool exhaustion,2,48,29
+277,DNS misconfiguration,2,69,20
+278,expired TLS certificate,1,52,32
+279,bad config rollout,4,41,10
+280,expired TLS certificate,3,83,46
+281,database connection pool exhaustion,4,38,49
+282,DNS misconfiguration,2,73,47
+283,memory leak in worker,3,89,8
+284,memory leak in worker,1,18,44
+285,DNS misconfiguration,1,40,2
+286,memory leak in worker,2,58,23
+287,expired TLS certificate,3,8,39
+288,bad config rollout,2,99,18
+289,bad config rollout,1,11,35
+290,memory leak in worker,1,66,26
+291,bad config rollout,4,41,39
+292,DNS misconfiguration,1,86,24
+293,memory leak in worker,2,92,28
+294,database connection pool exhaustion,4,48,1
+295,database connection pool exhaustion,3,45,20
+296,memory leak in worker,1,28,47
+297,memory leak in worker,4,57,19
+298,bad config rollout,4,94,27
+299,bad config rollout,1,19,14
+300,database connection pool exhaustion,4,68,22

@@ -1,0 +1,501 @@
+id,customer_id,issue,assignee_id,frustration,resolved
+1,36,billing mismatch,5,3,True
+2,66,API 429 errors,44,5,True
+3,4,login timeout,17,2,True
+4,34,login timeout,7,5,True
+5,94,billing mismatch,21,4,True
+6,66,login timeout,25,5,False
+7,6,data sync delay,28,1,True
+8,69,data sync delay,47,2,True
+9,9,data sync delay,22,5,True
+10,16,data sync delay,20,5,True
+11,53,slow dashboard,26,3,True
+12,25,API 429 errors,43,4,True
+13,23,SSO failure,37,3,True
+14,1,slow dashboard,19,2,True
+15,75,SSO failure,42,3,True
+16,57,data sync delay,14,5,True
+17,95,certificate expiry,43,1,True
+18,85,data sync delay,40,3,False
+19,97,certificate expiry,44,3,True
+20,26,certificate expiry,2,1,True
+21,61,SSO failure,50,1,True
+22,81,SSO failure,13,4,True
+23,32,certificate expiry,42,1,True
+24,99,login timeout,50,4,True
+25,90,SSO failure,30,1,True
+26,16,API 429 errors,9,4,True
+27,72,SSO failure,21,4,True
+28,93,SSO failure,28,5,True
+29,21,data sync delay,31,4,True
+30,32,billing mismatch,41,3,True
+31,67,API 429 errors,41,2,True
+32,10,data sync delay,19,2,True
+33,41,SSO failure,6,2,False
+34,50,data sync delay,10,2,False
+35,53,slow dashboard,35,4,True
+36,27,billing mismatch,27,4,True
+37,75,data sync delay,2,5,True
+38,1,slow dashboard,20,4,True
+39,54,SSO failure,48,5,True
+40,29,API 429 errors,15,3,True
+41,4,API 429 errors,22,4,True
+42,60,certificate expiry,40,5,False
+43,51,SSO failure,37,1,False
+44,55,certificate expiry,30,2,False
+45,49,slow dashboard,14,4,True
+46,98,API 429 errors,18,4,True
+47,11,API 429 errors,2,5,False
+48,45,certificate expiry,42,1,True
+49,84,login timeout,49,1,True
+50,26,billing mismatch,2,5,False
+51,17,API 429 errors,43,1,True
+52,28,API 429 errors,45,3,True
+53,22,SSO failure,39,1,True
+54,21,slow dashboard,7,5,False
+55,40,SSO failure,44,4,True
+56,92,certificate expiry,5,5,True
+57,81,certificate expiry,7,3,True
+58,77,billing mismatch,8,5,True
+59,45,SSO failure,28,3,False
+60,83,slow dashboard,1,4,True
+61,14,API 429 errors,24,4,True
+62,56,certificate expiry,47,5,True
+63,35,SSO failure,35,4,True
+64,94,SSO failure,18,3,True
+65,12,slow dashboard,29,2,True
+66,73,SSO failure,43,4,True
+67,64,billing mismatch,21,2,True
+68,46,billing mismatch,17,3,True
+69,77,data sync delay,18,5,False
+70,25,login timeout,16,4,True
+71,98,certificate expiry,45,4,True
+72,63,API 429 errors,2,1,True
+73,52,data sync delay,16,3,True
+74,48,API 429 errors,36,5,True
+75,96,SSO failure,22,3,True
+76,35,slow dashboard,17,2,False
+77,25,slow dashboard,8,5,True
+78,89,certificate expiry,13,2,True
+79,36,data sync delay,38,5,True
+80,13,billing mismatch,13,3,True
+81,23,slow dashboard,1,5,False
+82,6,login timeout,36,3,True
+83,17,data sync delay,49,4,False
+84,2,SSO failure,19,4,True
+85,44,certificate expiry,4,3,True
+86,62,login timeout,5,4,True
+87,74,data sync delay,44,1,False
+88,73,slow dashboard,6,2,False
+89,98,API 429 errors,39,5,True
+90,29,billing mismatch,34,4,True
+91,57,slow dashboard,38,4,True
+92,80,login timeout,40,1,True
+93,27,data sync delay,14,3,True
+94,21,certificate expiry,12,5,False
+95,1,API 429 errors,29,5,True
+96,5,certificate expiry,19,3,True
+97,59,login timeout,44,2,True
+98,81,SSO failure,43,2,True
+99,70,certificate expiry,42,2,True
+100,19,login timeout,4,2,True
+101,77,data sync delay,37,3,True
+102,60,data sync delay,20,4,True
+103,65,SSO failure,32,4,False
+104,6,API 429 errors,48,3,True
+105,4,login timeout,15,5,True
+106,3,billing mismatch,44,3,True
+107,98,billing mismatch,12,4,True
+108,57,slow dashboard,12,5,True
+109,63,login timeout,31,3,True
+110,42,data sync delay,7,2,True
+111,89,API 429 errors,19,4,True
+112,71,login timeout,30,1,True
+113,42,login timeout,50,4,True
+114,1,data sync delay,35,4,True
+115,25,SSO failure,24,5,True
+116,81,API 429 errors,49,1,True
+117,71,certificate expiry,19,4,True
+118,63,login timeout,2,5,True
+119,91,certificate expiry,20,5,False
+120,53,login timeout,15,1,True
+121,16,data sync delay,10,4,True
+122,38,SSO failure,46,3,True
+123,62,API 429 errors,16,4,True
+124,50,certificate expiry,39,5,True
+125,18,billing mismatch,5,3,True
+126,54,slow dashboard,33,3,True
+127,37,data sync delay,20,5,True
+128,85,API 429 errors,10,4,True
+129,45,slow dashboard,36,5,True
+130,42,billing mismatch,13,2,True
+131,30,billing mismatch,50,4,False
+132,96,API 429 errors,46,4,True
+133,85,billing mismatch,42,2,True
+134,5,certificate expiry,33,5,True
+135,13,billing mismatch,29,1,True
+136,59,login timeout,47,2,True
+137,84,certificate expiry,5,4,True
+138,34,slow dashboard,40,4,True
+139,43,billing mismatch,44,5,True
+140,41,data sync delay,46,4,True
+141,5,SSO failure,5,2,True
+142,37,certificate expiry,48,1,True
+143,13,billing mismatch,41,1,True
+144,89,slow dashboard,2,1,True
+145,8,slow dashboard,23,3,True
+146,32,SSO failure,27,5,True
+147,24,certificate expiry,12,1,True
+148,49,SSO failure,44,2,True
+149,75,certificate expiry,15,4,True
+150,59,slow dashboard,43,1,True
+151,60,slow dashboard,44,5,False
+152,57,slow dashboard,38,3,True
+153,55,data sync delay,17,4,True
+154,26,API 429 errors,31,1,True
+155,74,slow dashboard,37,3,True
+156,38,login timeout,43,4,True
+157,73,billing mismatch,44,1,True
+158,96,API 429 errors,19,2,True
+159,46,certificate expiry,41,2,True
+160,87,billing mismatch,47,2,True
+161,81,data sync delay,3,3,True
+162,5,SSO failure,24,2,False
+163,38,slow dashboard,48,4,False
+164,17,billing mismatch,35,3,True
+165,35,billing mismatch,11,3,True
+166,62,billing mismatch,19,3,True
+167,60,login timeout,10,2,True
+168,93,data sync delay,26,5,True
+169,51,login timeout,17,5,False
+170,48,data sync delay,48,3,True
+171,82,slow dashboard,7,2,True
+172,80,SSO failure,21,5,True
+173,9,data sync delay,30,3,True
+174,15,certificate expiry,3,1,True
+175,64,login timeout,7,2,True
+176,18,API 429 errors,30,3,True
+177,96,data sync delay,35,4,True
+178,94,certificate expiry,27,1,True
+179,79,API 429 errors,18,1,True
+180,28,API 429 errors,29,2,True
+181,13,data sync delay,24,5,True
+182,83,slow dashboard,4,4,True
+183,16,billing mismatch,30,1,True
+184,83,data sync delay,39,1,False
+185,43,certificate expiry,9,5,True
+186,98,SSO failure,14,5,True
+187,30,slow dashboard,50,2,True
+188,77,login timeout,18,2,True
+189,70,slow dashboard,12,1,True
+190,4,certificate expiry,1,3,True
+191,31,SSO failure,21,1,False
+192,7,certificate expiry,48,4,True
+193,96,login timeout,31,4,True
+194,66,SSO failure,7,4,True
+195,79,login timeout,47,5,True
+196,83,login timeout,4,4,True
+197,55,data sync delay,7,4,True
+198,57,login timeout,6,3,True
+199,9,certificate expiry,18,5,True
+200,71,data sync delay,21,4,True
+201,68,slow dashboard,30,5,True
+202,13,billing mismatch,45,1,True
+203,84,billing mismatch,36,2,True
+204,30,API 429 errors,22,4,True
+205,94,login timeout,21,4,True
+206,33,slow dashboard,10,4,False
+207,11,login timeout,28,1,True
+208,48,billing mismatch,9,5,False
+209,72,SSO failure,22,1,True
+210,86,billing mismatch,28,1,True
+211,77,slow dashboard,23,1,True
+212,28,certificate expiry,43,4,True
+213,14,slow dashboard,36,3,False
+214,36,SSO failure,15,4,True
+215,99,billing mismatch,40,5,True
+216,72,login timeout,39,3,False
+217,35,data sync delay,49,3,True
+218,45,login timeout,12,2,True
+219,52,login timeout,10,1,False
+220,68,certificate expiry,25,4,True
+221,21,slow dashboard,20,3,True
+222,73,SSO failure,6,1,False
+223,97,SSO failure,4,1,True
+224,85,API 429 errors,32,5,True
+225,35,certificate expiry,49,5,False
+226,56,login timeout,19,5,True
+227,86,slow dashboard,3,2,True
+228,77,login timeout,1,2,True
+229,28,billing mismatch,9,3,True
+230,16,login timeout,32,4,False
+231,49,SSO failure,46,2,True
+232,86,billing mismatch,23,1,True
+233,95,login timeout,28,1,True
+234,10,billing mismatch,21,5,True
+235,52,data sync delay,41,4,True
+236,52,login timeout,21,2,True
+237,80,API 429 errors,45,3,False
+238,14,certificate expiry,28,5,True
+239,11,API 429 errors,20,3,True
+240,100,certificate expiry,5,5,True
+241,68,SSO failure,13,3,True
+242,83,billing mismatch,10,2,False
+243,33,certificate expiry,12,5,False
+244,98,data sync delay,5,2,True
+245,81,API 429 errors,30,5,True
+246,58,data sync delay,37,5,True
+247,81,slow dashboard,10,4,False
+248,57,data sync delay,20,3,True
+249,46,SSO failure,5,3,True
+250,5,login timeout,24,3,False
+251,12,SSO failure,39,5,True
+252,75,SSO failure,48,1,True
+253,74,data sync delay,13,3,True
+254,65,certificate expiry,4,4,False
+255,44,data sync delay,6,5,True
+256,6,certificate expiry,46,4,True
+257,68,SSO failure,40,2,True
+258,37,API 429 errors,27,3,True
+259,7,billing mismatch,41,3,False
+260,13,SSO failure,44,4,True
+261,93,billing mismatch,43,5,True
+262,43,login timeout,38,2,True
+263,40,data sync delay,45,4,False
+264,91,login timeout,20,5,True
+265,43,billing mismatch,9,5,False
+266,86,API 429 errors,33,3,False
+267,40,certificate expiry,14,3,True
+268,63,certificate expiry,15,2,False
+269,38,billing mismatch,7,5,True
+270,95,SSO failure,3,3,True
+271,80,certificate expiry,39,4,False
+272,24,billing mismatch,45,5,True
+273,22,data sync delay,29,1,True
+274,87,data sync delay,16,4,True
+275,97,data sync delay,29,2,True
+276,40,billing mismatch,31,2,True
+277,74,API 429 errors,30,3,True
+278,65,SSO failure,27,2,True
+279,78,certificate expiry,17,1,True
+280,48,SSO failure,7,5,True
+281,37,login timeout,49,2,True
+282,66,certificate expiry,28,1,True
+283,29,billing mismatch,29,3,True
+284,54,login timeout,26,5,True
+285,50,login timeout,24,2,False
+286,13,billing mismatch,46,3,True
+287,18,login timeout,19,4,True
+288,18,billing mismatch,46,4,True
+289,1,login timeout,2,3,True
+290,20,SSO failure,47,5,True
+291,15,billing mismatch,19,2,True
+292,7,certificate expiry,27,5,True
+293,15,billing mismatch,32,5,True
+294,81,SSO failure,37,2,True
+295,38,API 429 errors,1,5,True
+296,74,API 429 errors,12,1,True
+297,47,login timeout,34,5,True
+298,65,SSO failure,2,4,True
+299,6,data sync delay,25,3,True
+300,3,slow dashboard,5,3,True
+301,85,data sync delay,7,5,True
+302,43,certificate expiry,3,3,True
+303,83,certificate expiry,50,4,True
+304,62,data sync delay,12,2,False
+305,100,API 429 errors,3,3,True
+306,26,login timeout,21,3,True
+307,70,API 429 errors,17,1,True
+308,25,slow dashboard,23,1,True
+309,43,slow dashboard,8,3,True
+310,52,data sync delay,29,4,True
+311,24,API 429 errors,45,4,True
+312,67,slow dashboard,6,4,False
+313,78,billing mismatch,12,5,True
+314,14,login timeout,21,3,True
+315,78,data sync delay,28,2,True
+316,45,API 429 errors,3,3,True
+317,56,slow dashboard,41,1,False
+318,82,API 429 errors,24,5,True
+319,87,certificate expiry,2,2,True
+320,87,billing mismatch,29,1,False
+321,31,billing mismatch,42,3,True
+322,73,login timeout,39,2,True
+323,48,slow dashboard,29,1,True
+324,68,slow dashboard,26,3,True
+325,32,login timeout,2,2,True
+326,50,SSO failure,8,3,True
+327,91,API 429 errors,14,5,True
+328,63,certificate expiry,8,2,True
+329,58,certificate expiry,46,4,True
+330,88,billing mismatch,21,3,True
+331,71,SSO failure,19,3,True
+332,92,data sync delay,45,2,True
+333,66,certificate expiry,8,2,True
+334,31,billing mismatch,32,1,True
+335,74,slow dashboard,30,5,False
+336,12,login timeout,20,4,True
+337,93,API 429 errors,34,4,True
+338,74,login timeout,9,3,True
+339,58,API 429 errors,44,5,True
+340,100,SSO failure,41,5,False
+341,17,API 429 errors,33,1,True
+342,67,certificate expiry,20,2,False
+343,91,certificate expiry,23,5,True
+344,11,slow dashboard,13,5,True
+345,81,slow dashboard,40,5,False
+346,83,certificate expiry,38,5,False
+347,85,SSO failure,47,5,True
+348,73,login timeout,2,1,False
+349,83,billing mismatch,37,3,True
+350,99,SSO failure,27,5,True
+351,64,data sync delay,35,3,True
+352,39,API 429 errors,16,4,True
+353,10,data sync delay,4,2,True
+354,62,API 429 errors,14,3,True
+355,41,billing mismatch,46,3,True
+356,45,API 429 errors,9,3,True
+357,14,slow dashboard,16,4,False
+358,58,certificate expiry,10,1,False
+359,50,billing mismatch,40,4,True
+360,21,billing mismatch,21,5,True
+361,25,billing mismatch,11,4,True
+362,60,API 429 errors,20,4,False
+363,51,SSO failure,30,2,True
+364,46,login timeout,4,3,True
+365,84,data sync delay,31,3,True
+366,14,API 429 errors,9,3,True
+367,98,API 429 errors,24,1,True
+368,73,SSO failure,13,3,True
+369,10,API 429 errors,33,4,True
+370,36,billing mismatch,40,5,False
+371,13,API 429 errors,24,3,True
+372,47,billing mismatch,10,2,True
+373,52,SSO failure,3,1,False
+374,92,slow dashboard,31,5,True
+375,78,SSO failure,9,3,True
+376,41,certificate expiry,26,5,True
+377,39,SSO failure,22,5,True
+378,69,API 429 errors,46,5,True
+379,3,slow dashboard,22,1,True
+380,75,slow dashboard,47,1,True
+381,34,data sync delay,50,5,True
+382,93,login timeout,38,4,False
+383,81,data sync delay,40,4,False
+384,88,certificate expiry,3,5,True
+385,15,certificate expiry,2,4,True
+386,20,API 429 errors,45,2,True
+387,100,SSO failure,31,1,True
+388,67,certificate expiry,36,3,True
+389,62,SSO failure,25,3,True
+390,59,SSO failure,22,5,True
+391,99,billing mismatch,47,3,True
+392,25,certificate expiry,18,5,True
+393,39,billing mismatch,19,2,True
+394,63,slow dashboard,31,3,True
+395,93,slow dashboard,19,1,True
+396,70,API 429 errors,26,3,True
+397,19,slow dashboard,3,3,True
+398,11,slow dashboard,29,3,True
+399,28,certificate expiry,35,3,True
+400,90,slow dashboard,9,1,True
+401,76,certificate expiry,16,1,True
+402,68,certificate expiry,41,2,False
+403,53,slow dashboard,46,4,False
+404,99,certificate expiry,1,5,True
+405,21,API 429 errors,42,4,True
+406,26,billing mismatch,19,3,True
+407,8,billing mismatch,6,5,True
+408,95,data sync delay,3,2,True
+409,23,login timeout,26,4,False
+410,96,billing mismatch,19,1,False
+411,73,SSO failure,7,3,True
+412,83,SSO failure,34,4,True
+413,18,billing mismatch,33,4,True
+414,15,slow dashboard,11,4,True
+415,92,certificate expiry,1,3,True
+416,73,data sync delay,49,2,False
+417,82,API 429 errors,28,5,True
+418,52,data sync delay,7,2,True
+419,62,slow dashboard,16,1,True
+420,31,API 429 errors,49,3,True
+421,39,SSO failure,47,5,False
+422,84,slow dashboard,45,2,False
+423,16,API 429 errors,20,2,True
+424,65,data sync delay,50,3,True
+425,82,slow dashboard,24,5,True
+426,18,API 429 errors,10,4,True
+427,78,slow dashboard,27,5,True
+428,97,SSO failure,43,2,True
+429,88,billing mismatch,39,1,True
+430,68,data sync delay,24,1,True
+431,15,login timeout,36,5,True
+432,69,certificate expiry,11,3,True
+433,57,login timeout,44,2,True
+434,63,login timeout,33,4,True
+435,59,certificate expiry,33,4,True
+436,8,SSO failure,30,3,True
+437,51,slow dashboard,1,2,True
+438,6,API 429 errors,23,1,True
+439,8,login timeout,31,1,True
+440,24,billing mismatch,9,4,True
+441,49,API 429 errors,25,4,False
+442,85,billing mismatch,35,2,True
+443,45,login timeout,12,5,True
+444,17,data sync delay,15,1,True
+445,39,API 429 errors,44,5,True
+446,49,billing mismatch,15,2,True
+447,20,slow dashboard,13,1,False
+448,85,API 429 errors,40,1,True
+449,9,login timeout,39,1,True
+450,87,data sync delay,4,2,True
+451,52,API 429 errors,15,5,True
+452,100,login timeout,9,5,True
+453,30,billing mismatch,47,5,True
+454,77,billing mismatch,44,3,True
+455,19,data sync delay,34,2,True
+456,36,login timeout,36,5,True
+457,23,data sync delay,44,4,True
+458,7,slow dashboard,42,4,True
+459,41,data sync delay,27,4,False
+460,49,certificate expiry,49,5,True
+461,29,slow dashboard,46,2,True
+462,8,SSO failure,27,4,True
+463,18,API 429 errors,16,3,True
+464,83,login timeout,29,3,False
+465,93,billing mismatch,13,1,True
+466,87,SSO failure,39,1,True
+467,25,billing mismatch,49,5,True
+468,72,certificate expiry,31,2,True
+469,43,slow dashboard,1,2,True
+470,95,login timeout,48,4,True
+471,90,SSO failure,46,2,True
+472,31,SSO failure,21,3,True
+473,69,data sync delay,23,3,True
+474,66,API 429 errors,30,1,True
+475,93,API 429 errors,49,3,True
+476,48,slow dashboard,27,1,True
+477,29,data sync delay,10,1,True
+478,75,SSO failure,47,4,True
+479,26,slow dashboard,15,4,True
+480,32,API 429 errors,36,3,True
+481,63,data sync delay,42,4,True
+482,94,billing mismatch,23,2,False
+483,70,API 429 errors,12,5,True
+484,8,SSO failure,3,1,True
+485,86,login timeout,49,1,True
+486,81,certificate expiry,5,2,False
+487,65,API 429 errors,24,1,True
+488,86,SSO failure,31,4,False
+489,69,SSO failure,27,1,False
+490,93,slow dashboard,35,3,False
+491,90,data sync delay,28,2,False
+492,13,SSO failure,10,2,False
+493,68,slow dashboard,23,3,True
+494,11,slow dashboard,26,4,True
+495,90,certificate expiry,20,1,True
+496,84,billing mismatch,3,1,True
+497,49,SSO failure,31,1,True
+498,90,certificate expiry,6,4,True
+499,83,billing mismatch,22,5,True
+500,13,SSO failure,3,2,True

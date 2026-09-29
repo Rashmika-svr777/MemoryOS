@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100; }
+.glass { @apply rounded-2xl border border-white/40 bg-white/70 shadow-lg backdrop-blur dark:border-white/10 dark:bg-slate-900/60; }
+.btn { @apply rounded-lg bg-gradient-to-r from-brand to-brand-violet px-4 py-2 text-sm font-medium text-white shadow hover:opacity-90 disabled:opacity-50; }

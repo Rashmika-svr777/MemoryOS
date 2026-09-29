@@ -1,0 +1,301 @@
+id,customer_id,organizer_id,summary,action_items
+1,73,48,Discussed billing mismatch and renewal,3
+2,71,33,Discussed login timeout and renewal,4
+3,15,18,Discussed billing mismatch and renewal,4
+4,47,35,Discussed billing mismatch and renewal,0
+5,98,47,Discussed API 429 errors and renewal,4
+6,28,28,Discussed login timeout and renewal,5
+7,84,49,Discussed certificate expiry and renewal,2
+8,5,29,Discussed slow dashboard and renewal,2
+9,12,29,Discussed billing mismatch and renewal,0
+10,100,16,Discussed certificate expiry and renewal,5
+11,76,45,Discussed slow dashboard and renewal,5
+12,79,41,Discussed API 429 errors and renewal,1
+13,79,9,Discussed billing mismatch and renewal,1
+14,27,4,Discussed SSO failure and renewal,2
+15,69,18,Discussed SSO failure and renewal,4
+16,22,21,Discussed data sync delay and renewal,2
+17,38,37,Discussed slow dashboard and renewal,4
+18,87,7,Discussed certificate expiry and renewal,3
+19,8,18,Discussed billing mismatch and renewal,5
+20,17,45,Discussed billing mismatch and renewal,1
+21,32,10,Discussed data sync delay and renewal,2
+22,32,49,Discussed billing mismatch and renewal,5
+23,51,32,Discussed certificate expiry and renewal,4
+24,81,18,Discussed data sync delay and renewal,3
+25,49,29,Discussed login timeout and renewal,5
+26,99,6,Discussed API 429 errors and renewal,4
+27,96,18,Discussed data sync delay and renewal,2
+28,59,32,Discussed slow dashboard and renewal,4
+29,1,50,Discussed billing mismatch and renewal,5
+30,12,47,Discussed API 429 errors and renewal,5
+31,86,45,Discussed slow dashboard and renewal,0
+32,69,26,Discussed certificate expiry and renewal,3
+33,28,32,Discussed slow dashboard and renewal,2
+34,37,22,Discussed SSO failure and renewal,4
+35,17,37,Discussed billing mismatch and renewal,3
+36,44,44,Discussed billing mismatch and renewal,0
+37,6,7,Discussed data sync delay and renewal,3
+38,3,8,Discussed billing mismatch and renewal,1
+39,57,30,Discussed login timeout and renewal,3
+40,26,45,Discussed certificate expiry and renewal,5
+41,39,11,Discussed billing mismatch and renewal,2
+42,12,42,Discussed slow dashboard and renewal,2
+43,11,24,Discussed data sync delay and renewal,5
+44,22,4,Discussed API 429 errors and renewal,5
+45,40,47,Discussed data sync delay and renewal,1
+46,55,42,Discussed login timeout and renewal,5
+47,13,1,Discussed certificate expiry and renewal,3
+48,10,9,Discussed SSO failure and renewal,1
+49,67,44,Discussed API 429 errors and renewal,0
+50,2,45,Discussed slow dashboard and renewal,0
+51,55,45,Discussed certificate expiry and renewal,3
+52,10,15,Discussed API 429 errors and renewal,0
+53,94,7,Discussed login timeout and renewal,2
+54,48,20,Discussed certificate expiry and renewal,3
+55,100,49,Discussed billing mismatch and renewal,1
+56,83,44,Discussed certificate expiry and renewal,0
+57,68,37,Discussed login timeout and renewal,4
+58,84,11,Discussed API 429 errors and renewal,2
+59,93,14,Discussed data sync delay and renewal,5
+60,20,27,Discussed SSO failure and renewal,5
+61,57,14,Discussed login timeout and renewal,0
+62,18,49,Discussed login timeout and renewal,4
+63,94,25,Discussed slow dashboard and renewal,3
+64,41,9,Discussed certificate expiry and renewal,2
+65,83,6,Discussed certificate expiry and renewal,4
+66,77,39,Discussed data sync delay and renewal,4
+67,37,50,Discussed data sync delay and renewal,0
+68,85,20,Discussed certificate expiry and renewal,4
+69,78,33,Discussed certificate expiry and renewal,5
+70,51,19,Discussed data sync delay and renewal,0
+71,31,32,Discussed API 429 errors and renewal,0
+72,31,32,Discussed data sync delay and renewal,4
+73,10,34,Discussed login timeout and renewal,2
+74,41,9,Discussed API 429 errors and renewal,4
+75,54,24,Discussed SSO failure and renewal,5
+76,23,49,Discussed API 429 errors and renewal,0
+77,3,38,Discussed login timeout and renewal,0
+78,34,14,Discussed login timeout and renewal,0
+79,51,33,Discussed slow dashboard and renewal,5
+80,92,33,Discussed billing mismatch and renewal,3
+81,55,45,Discussed API 429 errors and renewal,0
+82,82,35,Discussed SSO failure and renewal,4
+83,20,18,Discussed login timeout and renewal,2
+84,11,33,Discussed certificate expiry and renewal,1
+85,69,21,Discussed API 429 errors and renewal,4
+86,82,49,Discussed billing mismatch and renewal,5
+87,88,42,Discussed login timeout and renewal,2
+88,90,28,Discussed data sync delay and renewal,1
+89,8,16,Discussed login timeout and renewal,3
+90,15,30,Discussed SSO failure and renewal,4
+91,8,20,Discussed data sync delay and renewal,5
+92,85,48,Discussed certificate expiry and renewal,0
+93,2,46,Discussed certificate expiry and renewal,5
+94,2,11,Discussed API 429 errors and renewal,2
+95,67,34,Discussed billing mismatch and renewal,5
+96,34,11,Discussed slow dashboard and renewal,1
+97,96,50,Discussed billing mismatch and renewal,2
+98,94,8,Discussed billing mismatch and renewal,0
+99,43,28,Discussed slow dashboard and renewal,4
+100,9,17,Discussed data sync delay and renewal,4
+101,81,5,Discussed API 429 errors and renewal,3
+102,66,24,Discussed login timeout and renewal,3
+103,73,11,Discussed slow dashboard and renewal,1
+104,33,50,Discussed login timeout and renewal,4
+105,87,47,Discussed login timeout and renewal,1
+106,95,33,Discussed login timeout and renewal,0
+107,2,16,Discussed login timeout and renewal,3
+108,47,25,Discussed certificate expiry and renewal,1
+109,5,36,Discussed billing mismatch and renewal,5
+110,95,42,Discussed API 429 errors and renewal,1
+111,42,16,Discussed API 429 errors and renewal,5
+112,41,18,Discussed billing mismatch and renewal,0
+113,74,24,Discussed login timeout and renewal,4
+114,87,4,Discussed certificate expiry and renewal,1
+115,67,3,Discussed API 429 errors and renewal,0
+116,60,19,Discussed billing mismatch and renewal,2
+117,42,6,Discussed SSO failure and renewal,3
+118,2,24,Discussed certificate expiry and renewal,2
+119,73,20,Discussed data sync delay and renewal,4
+120,32,30,Discussed slow dashboard and renewal,4
+121,64,50,Discussed billing mismatch and renewal,1
+122,94,35,Discussed billing mismatch and renewal,1
+123,20,1,Discussed API 429 errors and renewal,0
+124,30,35,Discussed slow dashboard and renewal,5
+125,89,1,Discussed slow dashboard and renewal,0
+126,98,43,Discussed API 429 errors and renewal,5
+127,94,20,Discussed login timeout and renewal,1
+128,68,16,Discussed API 429 errors and renewal,3
+129,8,10,Discussed data sync delay and renewal,2
+130,12,3,Discussed certificate expiry and renewal,4
+131,53,45,Discussed slow dashboard and renewal,3
+132,96,6,Discussed SSO failure and renewal,0
+133,65,9,Discussed data sync delay and renewal,3
+134,10,38,Discussed SSO failure and renewal,0
+135,56,43,Discussed certificate expiry and renewal,1
+136,38,17,Discussed billing mismatch and renewal,2
+137,51,45,Discussed billing mismatch and renewal,5
+138,42,21,Discussed API 429 errors and renewal,2
+139,30,5,Discussed certificate expiry and renewal,1
+140,100,50,Discussed SSO failure and renewal,0
+141,20,7,Discussed certificate expiry and renewal,3
+142,60,21,Discussed API 429 errors and renewal,0
+143,69,23,Discussed billing mismatch and renewal,1
+144,58,20,Discussed API 429 errors and renewal,2
+145,16,6,Discussed certificate expiry and renewal,5
+146,39,46,Discussed data sync delay and renewal,4
+147,6,14,Discussed billing mismatch and renewal,2
+148,19,6,Discussed data sync delay and renewal,1
+149,46,26,Discussed SSO failure and renewal,0
+150,87,20,Discussed slow dashboard and renewal,1
+151,4,26,Discussed billing mismatch and renewal,3
+152,72,48,Discussed SSO failure and renewal,1
+153,13,30,Discussed login timeout and renewal,1
+154,16,1,Discussed login timeout and renewal,1
+155,17,13,Discussed billing mismatch and renewal,3
+156,48,44,Discussed data sync delay and renewal,5
+157,11,38,Discussed SSO failure and renewal,2
+158,10,2,Discussed login timeout and renewal,1
+159,83,29,Discussed billing mismatch and renewal,1
+160,12,22,Discussed login timeout and renewal,0
+161,60,4,Discussed certificate expiry and renewal,4
+162,56,47,Discussed API 429 errors and renewal,3
+163,4,25,Discussed data sync delay and renewal,3
+164,23,23,Discussed certificate expiry and renewal,1
+165,36,18,Discussed API 429 errors and renewal,1
+166,5,40,Discussed SSO failure and renewal,4
+167,32,42,Discussed slow dashboard and renewal,3
+168,53,36,Discussed API 429 errors and renewal,0
+169,12,18,Discussed API 429 errors and renewal,1
+170,54,13,Discussed data sync delay and renewal,4
+171,32,41,Discussed billing mismatch and renewal,4
+172,3,25,Discussed billing mismatch and renewal,5
+173,46,31,Discussed SSO failure and renewal,3
+174,45,37,Discussed SSO failure and renewal,2
+175,50,18,Discussed certificate expiry and renewal,0
+176,41,39,Discussed certificate expiry and renewal,0
+177,100,18,Discussed login timeout and renewal,3
+178,68,23,Discussed billing mismatch and renewal,4
+179,30,11,Discussed login timeout and renewal,1
+180,85,16,Discussed slow dashboard and renewal,4
+181,95,4,Discussed billing mismatch and renewal,1
+182,74,25,Discussed slow dashboard and renewal,1
+183,23,16,Discussed SSO failure and renewal,2
+184,95,45,Discussed slow dashboard and renewal,4
+185,4,46,Discussed data sync delay and renewal,2
+186,73,37,Discussed certificate expiry and renewal,4
+187,25,32,Discussed SSO failure and renewal,2
+188,23,32,Discussed login timeout and renewal,0
+189,8,15,Discussed SSO failure and renewal,1
+190,3,34,Discussed API 429 errors and renewal,0
+191,43,40,Discussed certificate expiry and renewal,1
+192,44,46,Discussed certificate expiry and renewal,2
+193,8,2,Discussed certificate expiry and renewal,4
+194,91,10,Discussed billing mismatch and renewal,0
+195,68,24,Discussed login timeout and renewal,2
+196,91,43,Discussed API 429 errors and renewal,4
+197,13,22,Discussed slow dashboard and renewal,2
+198,18,11,Discussed data sync delay and renewal,3
+199,82,32,Discussed data sync delay and renewal,2
+200,23,46,Discussed SSO failure and renewal,5
+201,79,23,Discussed certificate expiry and renewal,5
+202,76,12,Discussed API 429 errors and renewal,2
+203,94,45,Discussed slow dashboard and renewal,1
+204,23,47,Discussed login timeout and renewal,5
+205,74,26,Discussed billing mismatch and renewal,4
+206,5,12,Discussed SSO failure and renewal,2
+207,79,15,Discussed data sync delay and renewal,4
+208,14,32,Discussed certificate expiry and renewal,2
+209,96,5,Discussed certificate expiry and renewal,2
+210,41,11,Discussed data sync delay and renewal,0
+211,91,43,Discussed data sync delay and renewal,5
+212,43,29,Discussed login timeout and renewal,2
+213,27,16,Discussed data sync delay and renewal,0
+214,45,17,Discussed billing mismatch and renewal,0
+215,93,1,Discussed login timeout and renewal,3
+216,57,47,Discussed API 429 errors and renewal,1
+217,53,32,Discussed API 429 errors and renewal,2
+218,70,25,Discussed login timeout and renewal,3
+219,74,42,Discussed billing mismatch and renewal,5
+220,29,11,Discussed API 429 errors and renewal,0
+221,5,19,Discussed login timeout and renewal,2
+222,34,7,Discussed login timeout and renewal,2
+223,22,25,Discussed certificate expiry and renewal,5
+224,10,36,Discussed login timeout and renewal,2
+225,77,40,Discussed API 429 errors and renewal,5
+226,4,28,Discussed data sync delay and renewal,1
+227,78,28,Discussed certificate expiry and renewal,0
+228,13,22,Discussed certificate expiry and renewal,1
+229,53,45,Discussed SSO failure and renewal,5
+230,94,35,Discussed slow dashboard and renewal,5
+231,37,20,Discussed certificate expiry and renewal,0
+232,7,26,Discussed SSO failure and renewal,4
+233,63,10,Discussed login timeout and renewal,2
+234,1,28,Discussed login timeout and renewal,2
+235,85,41,Discussed SSO failure and renewal,3
+236,26,7,Discussed login timeout and renewal,1
+237,22,41,Discussed slow dashboard and renewal,0
+238,61,8,Discussed slow dashboard and renewal,3
+239,61,32,Discussed data sync delay and renewal,2
+240,12,42,Discussed SSO failure and renewal,3
+241,24,24,Discussed API 429 errors and renewal,2
+242,24,29,Discussed login timeout and renewal,2
+243,57,30,Discussed slow dashboard and renewal,1
+244,35,37,Discussed login timeout and renewal,1
+245,97,45,Discussed data sync delay and renewal,0
+246,11,43,Discussed slow dashboard and renewal,4
+247,53,49,Discussed SSO failure and renewal,1
+248,71,4,Discussed billing mismatch and renewal,3
+249,67,27,Discussed SSO failure and renewal,5
+250,61,37,Discussed certificate expiry and renewal,3
+251,39,6,Discussed API 429 errors and renewal,5
+252,5,33,Discussed SSO failure and renewal,4
+253,74,44,Discussed SSO failure and renewal,1
+254,16,49,Discussed API 429 errors and renewal,1
+255,22,14,Discussed billing mismatch and renewal,1
+256,17,3,Discussed API 429 errors and renewal,0
+257,88,28,Discussed certificate expiry and renewal,5
+258,19,39,Discussed slow dashboard and renewal,2
+259,94,5,Discussed login timeout and renewal,3
+260,72,26,Discussed SSO failure and renewal,2
+261,36,34,Discussed API 429 errors and renewal,0
+262,90,40,Discussed SSO failure and renewal,4
+263,54,8,Discussed API 429 errors and renewal,1
+264,19,37,Discussed SSO failure and renewal,4
+265,98,7,Discussed login timeout and renewal,4
+266,100,7,Discussed billing mismatch and renewal,2
+267,69,23,Discussed API 429 errors and renewal,2
+268,50,42,Discussed API 429 errors and renewal,4
+269,78,31,Discussed login timeout and renewal,1
+270,36,26,Discussed certificate expiry and renewal,4
+271,78,44,Discussed data sync delay and renewal,3
+272,5,26,Discussed slow dashboard and renewal,5
+273,31,4,Discussed data sync delay and renewal,3
+274,35,24,Discussed login timeout and renewal,2
+275,39,20,Discussed slow dashboard and renewal,3
+276,90,44,Discussed login timeout and renewal,1
+277,18,20,Discussed data sync delay and renewal,3
+278,100,21,Discussed slow dashboard and renewal,5
+279,54,39,Discussed data sync delay and renewal,0
+280,25,29,Discussed certificate expiry and renewal,3
+281,95,32,Discussed billing mismatch and renewal,4
+282,48,4,Discussed SSO failure and renewal,1
+283,9,20,Discussed data sync delay and renewal,4
+284,52,9,Discussed billing mismatch and renewal,4
+285,73,2,Discussed certificate expiry and renewal,1
+286,26,4,Discussed certificate expiry and renewal,0
+287,59,4,Discussed slow dashboard and renewal,5
+288,26,18,Discussed slow dashboard and renewal,3
+289,65,26,Discussed data sync delay and renewal,0
+290,88,2,Discussed certificate expiry and renewal,2
+291,63,39,Discussed API 429 errors and renewal,1
+292,61,38,Discussed SSO failure and renewal,2
+293,45,11,Discussed billing mismatch and renewal,2
+294,96,45,Discussed login timeout and renewal,2
+295,4,25,Discussed login timeout and renewal,1
+296,74,50,Discussed certificate expiry and renewal,1
+297,83,15,Discussed data sync delay and renewal,1
+298,35,42,Discussed API 429 errors and renewal,4
+299,3,50,Discussed billing mismatch and renewal,5
+300,2,31,Discussed certificate expiry and renewal,5
